@@ -1,4 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-ローカルリポで変更
-Githubkkkkkkkkkk上で更新
+自分のリポジトリで更新
